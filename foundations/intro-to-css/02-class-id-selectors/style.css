@@ -1,0 +1,19 @@
+.impar {
+    background-color: #fd8a8a;
+    font-family: Verdana, 'Arial', sans-serif;
+}
+
+#segundo-elemento {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.re-size {
+    font-size: 24px;
+}
+
+#cuarto-elemento {
+    background-color: #9cff9c;
+    font-weight: bold;
+}
+
